@@ -7,16 +7,28 @@ This is our group project, “software tool to handle student request”, for th
 # Basic techniques and the technologies we have used
 
 1)HTML
+
+
 2)CSS
+
+
 3)Bootstrap
+
+
 4)PHP
+
+
 5)MySQL
+
+
 
 # Demo URL
 
 http://hartleyrms.000webhostapp.com/index.php
 
 user name : test
+
+
 password : test
 
 
