@@ -12,7 +12,7 @@ This is our group project, “software tool to handle student request”, for th
 4)PHP
 5)MySQL
 
-#Demo URL
+# Demo URL
 
 http://hartleyrms.000webhostapp.com/index.php
 
